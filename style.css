@@ -1,0 +1,1 @@
+html,body{margin:0;height:100%;overflow:hidden}body{display:flex;justify-content:center;align-items:center;background:url(background.jpg) center/cover no-repeat;font-family:Arial}#msg{color:#fff;font-size:42px;font-weight:bold;text-align:center;text-shadow:0 0 8px #000;white-space:pre-line;position:absolute}
