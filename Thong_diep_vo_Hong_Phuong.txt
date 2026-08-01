@@ -1,0 +1,34 @@
+THÔNG ĐIỆP GỬI VỢ HỒNG PHƯƠNG ❤
+
+==================================================
+
+[ĐỢT 1 - HIỂN THỊ 4 DÒNG ĐẦU]
+
+1. I love you
+
+
+2. Vợ của anh nha
+
+
+3. Hồng Phương
+
+
+4. Nay là ngày đầu tiên
+
+
+
+[ĐỢT 2 - HIỂN THỊ 4 DÒNG TIẾP THEO]
+5. Bước qua tháng 8
+6. Chúc vợ may mắn
+7. Trong tháng này nha! ❤
+8. Yêu em nhiều lắm! 💕
+
+==================================================
+Ghi chú hiệu ứng:
+
+Mỗi lần xuất hiện 4 dòng ở giữa khung hình (giữ 2s).
+
+Trôi nhẹ xuống nửa dưới khung hình và mờ dần biến mất.
+
+Tự động lặp lại liên tục.
+==================================================
