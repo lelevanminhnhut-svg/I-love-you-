@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1280">
+<style>
+text{fill:white;font:52px sans-serif;text-anchor:middle;opacity:0}
+.t1{animation:a 8s infinite}
+.t2{animation:b 8s infinite}
+@keyframes a{0%,10%{opacity:0}15%,40%{opacity:1;transform:translateY(0)}65%{opacity:0;transform:translateY(180px)}100%{opacity:0;transform:translateY(180px)}}
+@keyframes b{0%,50%{opacity:0}65%,90%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(180px)}}
+</style>
+<rect width="100%" height="100%" fill="#111"/>
+<text class="t1" x="360" y="640">I love you</text>
+<text class="t2" x="360" y="640">Hồng Phương ❤</text>
+</svg>
