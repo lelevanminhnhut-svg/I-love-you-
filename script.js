@@ -1,1 +1,0 @@
-const m=document.getElementById('msg');function r(){m.animate([{transform:'translateY(0)',opacity:1,offset:0},{transform:'translateY(0)',opacity:1,offset:.5},{transform:'translateY(35vh)',opacity:0,offset:1}],{duration:8000,fill:'forwards'})}r();setInterval(r,8000);
